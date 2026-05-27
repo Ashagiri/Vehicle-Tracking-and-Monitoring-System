@@ -36,3 +36,6 @@ Follow these steps to get a local copy of the project up and running.
 ```bash
 git clone [https://github.com/Ashagiri/Vehicle-Tracking-and-Monitoring-System.git](https://github.com/Ashagiri/Vehicle-Tracking-and-Monitoring-System.git)
 cd Vehicle-Tracking-and-Monitoring-System
+
+### 2. Environment Setup
+Create a .env file in the root directory and add your keys:
