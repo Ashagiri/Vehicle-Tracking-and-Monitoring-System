@@ -39,3 +39,6 @@ cd Vehicle-Tracking-and-Monitoring-System
 
 ### 2. Environment Setup
 Create a .env file in the root directory and add your keys:
+PORT=5000
+DATABASE_URL=your_database_url
+MAPS_API_KEY=your_api_key
