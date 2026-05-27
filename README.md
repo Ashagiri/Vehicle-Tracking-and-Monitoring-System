@@ -50,3 +50,8 @@ For Backend:
 cd backend
 npm install  # or pip install -r requirements.txt
 npm start    # or python app.py
+
+For Frontend:
+cd frontend
+npm install
+npm start
