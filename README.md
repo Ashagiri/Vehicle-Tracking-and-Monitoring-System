@@ -55,3 +55,7 @@ For Frontend:
 cd frontend
 npm install
 npm start
+
+📸 Screenshots
+Dashboard ViewLive
+Tracking[Insert Image Placeholder][Insert Image Placeholder]🤝 ContributingContributions are what make the open-source community such an amazing place to learn, inspire, and create.Fork the ProjectCreate your Feature Branch (git checkout -b feature/AmazingFeature)Commit your Changes (git commit -m 'Add some AmazingFeature')Push to the Branch (git push origin feature/AmazingFeature)Open a Pull Request📜 LicenseDistributed under the MIT License. See LICENSE for more information.
