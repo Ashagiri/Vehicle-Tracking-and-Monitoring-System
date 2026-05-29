@@ -22,7 +22,6 @@ An end-to-end fleet management and real-time tracking solution designed to monit
 ---
 
 ## 📦 Installation & Setup
-
 Follow these steps to get a local copy of the project up and running.
 
 ### Prerequisites
