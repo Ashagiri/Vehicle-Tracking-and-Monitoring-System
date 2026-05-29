@@ -13,7 +13,6 @@ An end-to-end fleet management and real-time tracking solution designed to monit
 
 ---
 ## 🛠️ Tech Stack
-
 * **Frontend:** [e.g., React.js, Vue.js, Flutter, React Native]
 * **Backend:** [e.g., Node.js, Python/Django, Spring Boot]
 * **Database:** [e.g., MongoDB, PostgreSQL (with PostGIS for location data)]
