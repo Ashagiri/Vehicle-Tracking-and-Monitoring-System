@@ -36,7 +36,6 @@ git clone [https://github.com/Ashagiri/Vehicle-Tracking-and-Monitoring-System.gi
 cd Vehicle-Tracking-and-Monitoring-System.
 
 
-
  2. Environment Setup
 Create a .env file in the root directory and add your keys:
 PORT=5000
