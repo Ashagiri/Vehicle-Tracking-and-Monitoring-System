@@ -11,6 +11,7 @@ An end-to-end fleet management and real-time tracking solution designed to monit
 * **Analytics Dashboard:** Visual insights into fuel consumption, vehicle health, and driver performance.
 * **Alerts & Notifications:** Instant notifications for speeding, harsh braking, or unauthorized vehicle use.
 
+
 ---
 ## 🛠️ Tech Stack
 * **Frontend:** [e.g., React.js, Vue.js, Flutter, React Native]
