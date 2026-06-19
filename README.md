@@ -3,6 +3,7 @@ An end-to-end fleet management and real-time tracking solution designed to monit
 
 ---
 
+
 ## 🚀 Features
 * **Real-Time GPS Tracking:** Live location monitoring of vehicles on an interactive map.
 * **Geofencing:** Set up virtual boundaries and receive instant alerts when a vehicle enters or exits a designated zone.
