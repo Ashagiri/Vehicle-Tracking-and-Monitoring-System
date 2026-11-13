@@ -12,7 +12,7 @@ An end-to-end fleet management and real-time tracking solution designed to monit
 * **Alerts & Notifications:** Instant notifications for speeding, harsh braking, or unauthorized vehicle use.
 
 
----
+---   
 ## 🛠️ Tech Stack
 * **Frontend:** [e.g., React.js, Vue.js, Flutter, React Native]
 * **Backend:** [e.g., Node.js, Python/Django, Spring Boot]
